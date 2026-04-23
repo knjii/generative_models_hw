@@ -1,3 +1,5 @@
 *
 !*.ipynb
 !app_v4.py
+!arena.py
+!arena_tests.json
